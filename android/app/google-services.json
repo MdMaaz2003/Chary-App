@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968627899858",
+    "project_id": "material-management-app-40794",
+    "storage_bucket": "material-management-app-40794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968627899858:android:6db6c63af3c14eaa5d0c0b",
+        "android_client_info": {
+          "package_name": "com.materialmanagementapp.chary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968627899858-ll7dhu224h054lhvilppgdm5300r7ggj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Bbw4jF-aijK61ezZikFkiqP2n1mthIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968627899858-ll7dhu224h054lhvilppgdm5300r7ggj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
